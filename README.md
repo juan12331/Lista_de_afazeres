@@ -5,6 +5,8 @@ Lista de eventos DOM mais comuns do javascript (só para anotar mesmo)
 
 click: ocorre quando um elemento é clicado
 
+dblclick: double click
+
 mouseover: ocorre quando o ponteiro do mouse é posicionado sobre um elemento
 
 keyup: ocorre quando uma tecla é liberada após ser pressionada
